@@ -1,0 +1,46 @@
+.cuadrados__colores {
+    height: 600px;
+}
+
+.cuadrado__color--rojo {
+    background-color: #e53e3e;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.cuadrado__color--naranjo {
+    background-color: #dd6b20;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.cuadrado__color--amarillo {
+    background-color: #faf089;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.cuadrado__color--verde {
+    background-color: #48bb78;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.cuadrado__color--calipso {
+    background-color: #81e6d9;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.cuadrado__color--magenta {
+    background-color: #d53f8c;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.cuadrado__grande {
+    background-color: white;
+    border: 1px solid black;
+
+}

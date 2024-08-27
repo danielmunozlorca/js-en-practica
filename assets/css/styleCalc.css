@@ -1,0 +1,42 @@
+.table-calc {
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+    margin-left: 40px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(196, 175, 175);
+
+}
+
+.tr-pantalla {
+    background-color: black;
+    height: 40px;
+}
+
+.pantalla {
+    background-color: black;
+    height: 40px;
+    border: none;
+    color: white;
+    font-size: large;
+    border-radius: 30px;
+    padding: 10px;
+    font-family: "Electrolize", sans-serif;
+    font-weight: 500;
+}
+
+td {
+    width: 20px;
+    height: 40px;
+    border: 2px solid rgb(56, 27, 5);
+    margin: 2px;
+    text-align: center;
+    font-weight: bold;
+    background-color: chocolate;
+    color: white;
+    border-radius: 30px;
+    font-size: large;
+}
